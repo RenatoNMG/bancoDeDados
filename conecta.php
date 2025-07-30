@@ -20,3 +20,4 @@ if(mysqli_connect_errno()){
     die("erro ao concetar". mysqli_connect_error());
 }
 ?>
+<!-- teste -->
